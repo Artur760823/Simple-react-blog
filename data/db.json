@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My first Blog",
+            "body": "Why do we use it?\nIt is a long established fact tjat a reader will be distracted.\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Quam quidem non quia. Quia facilis, impedit vitae recusandae voluptate fugit fuga magni obcaecati ipsa. Doloribus eveniet blanditiis culpa assumenda, optio molestiae laudantium laboriosam similique aliquid quae consequatur quod incidunt fuga nemo reiciendis at ducimus quo! Accusantium, error. Nostrum adipisci facere dolorum praesentium dolor debitis similique laboriosam rem natus reiciendis! Exercitationem unde animi veritatis ratione? Possimus, quis, architecto rem eveniet sint deleniti expedita aut odit eos tempore totam laudantium illum similique saepe fugit facilis reprehenderit eaque porro ad enim cupiditate! Fuga sunt corrupti alias corporis dicta. Autem ad similique dolores error quo!",
+            "author": "mario",
+            "id": 1
+        },
+        {
+            "title": "Opening Party!",
+            "body": "Why do we use it?\nIt is a long established fact tjat a reader will be distracted.\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Quam quidem non quia. Quia facilis, impedit vitae recusandae voluptate fugit fuga magni obcaecati ipsa. Doloribus eveniet blanditiis culpa assumenda, optio molestiae laudantium laboriosam similique aliquid quae consequatur quod incidunt fuga nemo reiciendis at ducimus quo! Accusantium, error. Nostrum adipisci facere dolorum praesentium dolor debitis similique laboriosam rem natus reiciendis! Exercitationem unde animi veritatis ratione? Possimus, quis, architecto rem eveniet sint deleniti expedita aut odit eos tempore totam laudantium illum similique saepe fugit facilis reprehenderit eaque porro ad enim cupiditate! Fuga sunt corrupti alias corporis dicta. Autem ad similique dolores error quo!",
+            "author": "yoshi",
+            "id": 2
+        }
+    ]
+}
